@@ -12,6 +12,7 @@ const MAPPING = {
   'star.fill': 'star-outline',
   'house.fill': 'currency-exchange',
   'paperplane.fill': 'history',
+  'switch.2': 'swap-calls'
 
 } as Partial<
   Record<
