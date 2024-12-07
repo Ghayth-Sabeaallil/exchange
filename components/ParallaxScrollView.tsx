@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   content: {
-    flex: 1,
+    height: 600,
     marginTop: 70,
     paddingLeft: 32,
     paddingRight: 32,

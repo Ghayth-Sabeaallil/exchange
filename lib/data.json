@@ -500,64 +500,6 @@
     "independent": false
   },
   {
-    "name": "Antarctica",
-    "topLevelDomain": [".aq"],
-    "alpha2Code": "AQ",
-    "alpha3Code": "ATA",
-    "callingCodes": ["672"],
-    "subregion": "Antarctica",
-    "region": "Polar",
-    "population": 1000,
-    "latlng": [-74.65, 4.48],
-    "demonym": "Antarctic",
-    "area": 14000000,
-    "timezones": [
-      "UTC-03:00",
-      "UTC+03:00",
-      "UTC+05:00",
-      "UTC+06:00",
-      "UTC+07:00",
-      "UTC+08:00",
-      "UTC+10:00",
-      "UTC+12:00"
-    ],
-    "nativeName": "Antarctica",
-    "numericCode": "010",
-    "flags": {
-      "svg": "https://flagcdn.com/aq.svg",
-      "uri": "https://flagcdn.com/w320/aq.png"
-    },
-    "languages": [
-      {
-        "iso639_1": "en",
-        "iso639_2": "eng",
-        "name": "English",
-        "nativeName": "English"
-      },
-      {
-        "iso639_1": "ru",
-        "iso639_2": "rus",
-        "name": "Russian",
-        "nativeName": "Русский"
-      }
-    ],
-    "translations": {
-      "br": "Antarktika",
-      "pt": "Antárctida",
-      "nl": "Antarctica",
-      "hr": "Antarktika",
-      "fa": "جنوبگان",
-      "de": "Antarktika",
-      "es": "Antártida",
-      "fr": "Antarctique",
-      "ja": "南極大陸",
-      "it": "Antartide",
-      "hu": "Antarktisz"
-    },
-    "flag": "https://flagcdn.com/aq.svg",
-    "independent": false
-  },
-  {
     "name": "Antigua and Barbuda",
     "topLevelDomain": [".ag"],
     "alpha2Code": "AG",
@@ -1692,7 +1634,7 @@
     "independent": true
   },
   {
-    "name": "Bolivia (Plurinational State of)",
+    "name": "Bolivia",
     "topLevelDomain": [".bo"],
     "alpha2Code": "BO",
     "alpha3Code": "BOL",
@@ -2242,7 +2184,7 @@
     "independent": false
   },
   {
-    "name": "Virgin Islands (British)",
+    "name": "Virgin Islands",
     "topLevelDomain": [".vg"],
     "alpha2Code": "VG",
     "alpha3Code": "VGB",
@@ -2295,7 +2237,7 @@
     "independent": false
   },
   {
-    "name": "Virgin Islands (U.S.)",
+    "name": "Virgin Islands",
     "topLevelDomain": [".vi"],
     "alpha2Code": "VI",
     "alpha3Code": "VIR",
@@ -3617,7 +3559,7 @@
     "independent": true
   },
   {
-    "name": "Congo (Democratic Republic of the)",
+    "name": "Congo",
     "topLevelDomain": [".cd"],
     "alpha2Code": "CD",
     "alpha3Code": "COD",
@@ -5017,7 +4959,7 @@
     "independent": true
   },
   {
-    "name": "Falkland Islands (Malvinas)",
+    "name": "Falkland Islands",
     "topLevelDomain": [".fk"],
     "alpha2Code": "FK",
     "alpha3Code": "FLK",
@@ -7229,7 +7171,7 @@
     "independent": true
   },
   {
-    "name": "Iran (Islamic Republic of)",
+    "name": "Iran",
     "topLevelDomain": [".ir"],
     "alpha2Code": "IR",
     "alpha3Code": "IRN",
@@ -9793,7 +9735,7 @@
     "independent": true
   },
   {
-    "name": "Micronesia (Federated States of)",
+    "name": "Micronesia",
     "topLevelDomain": [".fm"],
     "alpha2Code": "FM",
     "alpha3Code": "FSM",
@@ -9847,7 +9789,7 @@
     "independent": true
   },
   {
-    "name": "Moldova (Republic of)",
+    "name": "Moldova",
     "topLevelDomain": [".md"],
     "alpha2Code": "MD",
     "alpha3Code": "MDA",
@@ -11075,7 +11017,7 @@
     "independent": false
   },
   {
-    "name": "Korea (Democratic People's Republic of)",
+    "name": "Republic of Korea",
     "topLevelDomain": [".kp"],
     "alpha2Code": "KP",
     "alpha3Code": "PRK",
@@ -12815,7 +12757,7 @@
     "independent": true
   },
   {
-    "name": "Saint Martin (French part)",
+    "name": "Saint Martin",
     "topLevelDomain": [".mf", ".fr", ".gp"],
     "alpha2Code": "MF",
     "alpha3Code": "MAF",
@@ -14133,7 +14075,7 @@
     "independent": false
   },
   {
-    "name": "Korea (Republic of)",
+    "name": "Republic of Korea",
     "topLevelDomain": [".kr"],
     "alpha2Code": "KR",
     "alpha3Code": "KOR",
@@ -15397,7 +15339,7 @@
       {
         "iso639_1": "to",
         "iso639_2": "ton",
-        "name": "Tonga (Tonga Islands)",
+        "name": "Tonga",
         "nativeName": "faka Tonga"
       }
     ],
@@ -15992,7 +15934,7 @@
     "independent": true
   },
   {
-    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "name": "United Kingdom",
     "topLevelDomain": [".uk"],
     "alpha2Code": "GB",
     "alpha3Code": "GBR",
@@ -16343,7 +16285,7 @@
     "independent": true
   },
   {
-    "name": "Venezuela (Bolivarian Republic of)",
+    "name": "Venezuela",
     "topLevelDomain": [".ve"],
     "alpha2Code": "VE",
     "alpha3Code": "VEN",

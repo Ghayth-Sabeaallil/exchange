@@ -11,7 +11,7 @@ const MAPPING = {
   // See SF Symbols in the SF Symbols app on Mac.
   'star.fill': 'star-outline',
   'house.fill': 'currency-exchange',
-  'paperplane.fill': 'history',
+  'paperplane.fill': 'map',
   'switch.2': 'swap-calls'
 
 } as Partial<

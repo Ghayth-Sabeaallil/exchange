@@ -27,7 +27,6 @@ export default function HomeScreen() {
   const [amount, setAmout] = useState<string>("");
 
   useEffect(() => {
-
   }, [fromCurrencySympol, toCurrencySympol, result]);
 
   const exchange = async () => {
