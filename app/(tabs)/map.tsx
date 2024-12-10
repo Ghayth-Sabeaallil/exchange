@@ -9,7 +9,7 @@ import ParallaxScrollView from '@/components/ParallaxScrollView';
 export default function HistoryPage() {
   const [fromCurrency, setFromCurrency] = useState<string>("");
   const [fromCurrencySympol, setFromCurrencySympol] = useState<string>("");
-  const [fromCountry, setFromCountry] = useState<string>("From");
+  const [fromCountry, setFromCountry] = useState<string>("Select Country");
   const [name, setName] = useState<string[]>([]);
 
   const getAllCountries = (currencyP: string) => {
