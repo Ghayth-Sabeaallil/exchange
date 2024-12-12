@@ -22,7 +22,7 @@ Andriod app to exchange money from any currency to any currency.
 ## API
 
 For this project I have used API to get data
-[text](https://www.exchangerate-api.com/docs/overview)
+[API Exchange](https://www.exchangerate-api.com/docs/overview)
 
 ## 🖼️ Images
 
