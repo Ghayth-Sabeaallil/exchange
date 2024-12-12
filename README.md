@@ -19,6 +19,11 @@ Andriod app to exchange money from any currency to any currency.
 - See how it cost 1 Currency or write down how much you want to exchange.
 - Show a map of the whole world, by selecting a country it will show you all countries that use the same currency
 
+## API
+
+For this project I have used API to get data
+[text](https://www.exchangerate-api.com/docs/overview)
+
 ## 🖼️ Images
 
 ![Home Dark](assets/images/homeDark.jpg "Home Dark")
