@@ -28,15 +28,7 @@ Andriod app to exchange money from any currency to any currency.
 ![Map Dark](assets/images/mapDark.jpg "Map Dark")
 ![Map Light](assets/images/mapLight.jpg "Map Light")
 
-| Home | Map | Exchange |
-| ---- | --- | -------- |
-
-| ![Home Dark](assets/images/homeDark.jpg "Home Dark")
-| ![Excahnge Dark](assets/images/exchangeDark.jpg "Excahnge Dark")
-| ![Map Dark](assets/images/mapDark.jpg "Map Dark")
-| ![Home Light](assets/images/homeLight.jpg "Home Light")
-| ![Excahnge Light](assets/images/exgchageLight.jpg "Exchange Light")
-| ![Map Light](assets/images/mapLight.jpg "Map Light")
+![alt-text-1](assets/images/homeDark.jpg "Home Dark") ![alt-text-2](assets/images/homeLight.jpg "Home Light")
 
 # 👨‍💻 Author
 
