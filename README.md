@@ -28,8 +28,6 @@ Andriod app to exchange money from any currency to any currency.
 ![Map Dark](assets/images/mapDark.jpg "Map Dark")
 ![Map Light](assets/images/mapLight.jpg "Map Light")
 
-![alt-text-1](assets/images/homeDark.jpg "Home Dark") ![alt-text-2](assets/images/homeLight.jpg "Home Light")
-
 # 👨‍💻 Author
 
 - Ghayth Sabeaallil - Developer and project owner.
