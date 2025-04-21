@@ -18,7 +18,7 @@ export default function Home() {
                 <ThemedText>
                     In this section you can select :
                     <ThemedText type="defaultSemiBold">From which country</ThemedText> and
-                    <ThemedText type="defaultSemiBold"> To which country</ThemedText>
+                    <ThemedText type="defaultSemiBold"> To which country </ThemedText>
                     and it will automaticlly show you the currenc sympol and the value.
                 </ThemedText>
             </Collapsible>
